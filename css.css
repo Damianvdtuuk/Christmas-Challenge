@@ -1,0 +1,18 @@
+canvas{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+div.wrapper {
+    position: absolute;
+    float: bottom;
+}
+div.kerstboom {
+    position: absolute;
+    float: bottom;
+    z-index: 10;
+}
+div.huisje {
+    float: right;
+}
